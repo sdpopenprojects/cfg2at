@@ -8,6 +8,8 @@ We propose a novel SDP approach called Control Flow Graph and Graph Attention Ne
 
 - `data` : The datasets of CFG2AT for Java and Python languages. It contains `graph `dir with control flow graph information dir and tradition dir with original *Promise* and *JIRA* datasets.
 - `.py` : The scripts of CFG2AT.
+- `.yaml`: The environment configurations.
+- `papermaterial`: Some materials related to the paper.
 
 ## Environment
 
@@ -16,7 +18,6 @@ Install required packages:
 ```shell
 conda env create -f cfg2at.yaml
 conda activate cfg2at
-pip install -r requirements.txt
 ```
 
 ## Train and Test
