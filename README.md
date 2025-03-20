@@ -1,6 +1,6 @@
 # cfg2at
 
-CFG2AT: Control Flow Graph and Graph Attention Network based Software Defect Prediction
+The paper of *CFG2AT: Control Flow Graph and Graph Attention Network based Software Defect Prediction* is published in the Journal of *IEEE Transactions on Reliability*, authored by *Haiyang Liu, Zhiqiang Li, Hongyu Zhang, Xiao-Yuan Jing, and Jinhui Liu*. 
 
 We propose a novel SDP approach called Control Flow Graph and Graph Attention Network based Software Defect Prediction (CFG2AT). CFG2AT is designed to identify software defects automatically and contains a graph-structured attention unit to capture control flow information effectively.
 
